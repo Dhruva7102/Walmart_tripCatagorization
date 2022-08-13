@@ -6,6 +6,6 @@ This project could not have been done without my wonderful project team to which
 ## Walmart Trip Catagorization
 Walmart currently employs a proprietary method to catogorize shopping trips into 38 distinct types. For example these trip types may be: a customer may make a small daily dinner trip, a weekly large grocery trip, a trip to buy gifts for an upcoming holiday, or a seasonal trip to buy clothes. This is a interesting supervised non-binary classification problem that we beleived we could attempt to replicate. So we have set out to create a multi-class predictive model that, given a limited set of customer behavior features, predicts the shopping trip type.
 
- To view the final product, navagate to Final_project in the repository. :)
+ To view the final product, navagate to FinalProject_group004 in the repository. :)
 
 
