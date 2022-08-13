@@ -1,10 +1,10 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+##Intro
+Thanks for checking out some of the work I have done. Feel free to have a look around and for any interaction please don't hesitate to reach out to me Dhruva7102@gmail.com
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
+#Walmart Trip Catagorization
+Walmart currently employs a proprietary method to catogorize shopping trips into 38 distinct types. For example these trip types may be: a customer may make a small daily dinner trip, a weekly large grocery trip, a trip to buy gifts for an upcoming holiday, or a seasonal trip to buy clothes. This is a interesting supervised non-binary classification problem that we beleived we could attempt to replicate. So we have set out to create a multi-class predictive model that, given a limited set of customer behavior features, predicts the shopping trip type.
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
+# To view the final product, navagate to Final_project in the repository. :)
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+
